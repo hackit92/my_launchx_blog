@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://hackit92.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura de un desarrollador de software</title>
       <link>https://hackit92.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://hackit92.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>En el mundo del desarrollo de software existen diversas prácticas que pueden ser perjudiciales debido a que, como ya sabemos, no siempre estaremos al frente del mismo proyecto y es por ello que es de gran importancia adoptar una cultura positiva como desarrolladores. ¿Cuántas veces nos hemos encontrado con código que nos toma mucho tiempo entender y mucho más tiempo actualizar y/o reparar? Es por esto que considerar como parte de un buen desarrollo comentar adecuadamente el código, generar variables descriptivas, seguir estándares y sobre todo crear la documentación adecuada.</description>
     </item>
     
     <item>
